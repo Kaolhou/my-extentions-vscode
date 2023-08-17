@@ -1,5 +1,7 @@
 aaron-bond.better-comments
 alexisvt.flutter-snippets
+Angular.ng-template
+ask-toolkit.alexa-skills-kit-toolkit
 batisteo.vscode-django
 BeardedBear.beardedtheme
 bierner.markdown-preview-github-styles
@@ -12,13 +14,17 @@ donjayamanne.python-environment-manager
 donjayamanne.python-extension-pack
 eamodio.gitlens
 esbenp.prettier-vscode
+formulahendry.auto-rename-tag
 formulahendry.code-runner
 GitHub.codespaces
 GrapeCity.gc-excelviewer
 icrawl.discord-vscode
 James-Yu.latex-workshop
 KevinRose.vsc-python-indent
+ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-pt-BR
+ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
 ms-python.isort
 ms-python.python
 ms-toolsai.jupyter
@@ -37,11 +43,14 @@ njpwerner.autodocstring
 oderwat.indent-rainbow
 Orta.vscode-twoslash-queries
 PKief.material-icon-theme
+platformio.platformio-ide
 Prisma.prisma
 qwtel.sqlite-viewer
 redhat.java
+ritwickdey.LiveServer
 SimonSiefke.svg-preview
 twxs.cmake
+vicerust.snes-asm
 VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
 vscjava.vscode-java-debug
@@ -50,4 +59,5 @@ vscjava.vscode-java-pack
 vscjava.vscode-java-test
 vscjava.vscode-maven
 wholroyd.jinja
+yoavbls.pretty-ts-errors
 yzhang.markdown-all-in-one
